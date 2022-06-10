@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ACIC-BMU/static/css/main.2b47ef06.css",
-    "main.js": "/ACIC-BMU/static/js/main.23a6e50f.js",
+    "main.css": "/ACIC-BMU/static/css/main.00218d18.css",
+    "main.js": "/ACIC-BMU/static/js/main.d75aa727.js",
     "static/js/787.70bcb38e.chunk.js": "/ACIC-BMU/static/js/787.70bcb38e.chunk.js",
     "static/media/ACIC_Bmu prope_logo.png": "/ACIC-BMU/static/media/ACIC_Bmu prope_logo.5b17a3b7ad855d60b51a.png",
     "static/media/logo2.jpeg": "/ACIC-BMU/static/media/logo2.58d973bfdd58719d20eb.jpeg",
     "static/media/acicfooter.png": "/ACIC-BMU/static/media/acicfooter.1f73cdc73d81d9af550c.png",
     "index.html": "/ACIC-BMU/index.html",
-    "main.2b47ef06.css.map": "/ACIC-BMU/static/css/main.2b47ef06.css.map",
-    "main.23a6e50f.js.map": "/ACIC-BMU/static/js/main.23a6e50f.js.map",
+    "main.00218d18.css.map": "/ACIC-BMU/static/css/main.00218d18.css.map",
+    "main.d75aa727.js.map": "/ACIC-BMU/static/js/main.d75aa727.js.map",
     "787.70bcb38e.chunk.js.map": "/ACIC-BMU/static/js/787.70bcb38e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b47ef06.css",
-    "static/js/main.23a6e50f.js"
+    "static/css/main.00218d18.css",
+    "static/js/main.d75aa727.js"
   ]
 }
