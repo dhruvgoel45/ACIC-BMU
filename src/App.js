@@ -6,11 +6,13 @@ import ResponsiveAppBar from "./components/Appbar";
 import { Typography } from "@mui/material";
 import Startups from "./Startups.json";
 import Footer from "./components/footer";
+import Slideshow from "./components/slideshow";
 
 function App() {
   return (
     <div className="App">
       <ResponsiveAppBar />
+      <Slideshow></Slideshow>
       <Container>
         {Startups.map((Startup) => (
           <>
@@ -24,7 +26,9 @@ function App() {
               {Startup.name}
             </Typography>
             <Grid container spacing={5}>
-              <Tourcard />
+              {Startup.company.map((compan, index) => (
+                <Tourcard compan={compan} key={index} />
+              ))}
             </Grid>
           </>
         ))}

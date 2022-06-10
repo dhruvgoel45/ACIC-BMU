@@ -46,10 +46,16 @@ const ResponsiveAppBar = () => {
 
   return (
     <AppBar position="static">
-      <Container maxWidth="xl" color="black">
-        <Toolbar disableGutters>
-          <img src={logo} height="60px" float="left" align="left" alt="LOGO" />
-          <Box sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}>
+      <Container maxWidth="xl" color="black" float>
+        <img src={logo} height="100px" float="left" align="left" alt="LOGO" />
+        <Toolbar disableGutters Width="xl">
+          <Box
+            sx={{
+              flexGrow: 1,
+              display: { xs: "flex", md: "none" },
+              align: "right",
+            }}
+          >
             <IconButton
               size="large"
               aria-label="account of current user"
@@ -96,8 +102,8 @@ const ResponsiveAppBar = () => {
                 {page}
               </Button>
             ))}
-            <img src={logo2} height="90px" />
           </Box>
+          <img src={logo2} height="90px" />
         </Toolbar>
       </Container>
     </AppBar>

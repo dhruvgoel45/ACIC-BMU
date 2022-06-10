@@ -5,39 +5,57 @@
     "company": [
       {
         "id": 1,
-        "name": "Startup 1",
-        "founded by": "founder 1,founder 2",
+        "name": "GreenEgg",
+        "founded": "founder 1,founder 2",
         "year": 2016,
         "p": "one line intro",
-        "image": "https://tcproduction.blob.core.windows.net/media/%7B240f8b72-1159-4fd3-a150-0a837f50ba4a%7D.2573758641_297d6d19fa_o.jpg",
-        "know more": "limktobeadded"
+        "image": "https://www.bmu.edu.in/acic-propel/contents/1629559083__cover.jpg",
+        "know-more": "https://www.bmu.edu.in/acic-propel/contents/1629990872__popup.jpeg"
       },
       {
         "id": 2,
         "name": "Startup 1",
-        "founded by": "founder 1,founder 2",
+        "founded": "founder 1,founder 2",
         "year": 2016,
         "p": "one line intro",
-        "image": "https://tcproduction.blob.core.windows.net/media/%7B240f8b72-1159-4fd3-a150-0a837f50ba4a%7D.2573758641_297d6d19fa_o.jpg",
-        "know more": "limktobeadded"
+        "image": "https://www.bmu.edu.in/acic-propel/contents/1629558809__cover.jpg",
+        "know-more": "limktobeadded"
       },
       {
         "id": 3,
         "name": "Startup 1",
-        "founded by": "founder 1,founder 2",
+        "founded": "founder 1,founder 2",
         "year": 2016,
         "p": "one line intro",
-        "image": "https://tcproduction.blob.core.windows.net/media/%7B240f8b72-1159-4fd3-a150-0a837f50ba4a%7D.2573758641_297d6d19fa_o.jpg",
-        "know more": "limktobeadded"
+        "image": "https://www.bmu.edu.in/acic-propel/contents/1629558686__cover.jpg",
+        "know-more": "limktobeadded"
       },
       {
         "id": 4,
         "name": "Startup 1",
-        "founded by": "founder 1,founder 2",
+        "founded": "founder 1,founder 2",
         "year": 2016,
         "p": "one line intro",
         "image": "https://tcproduction.blob.core.windows.net/media/%7B240f8b72-1159-4fd3-a150-0a837f50ba4a%7D.2573758641_297d6d19fa_o.jpg",
-        "know more": "limktobeadded"
+        "know-more": "limktobeadded"
+      },
+      {
+        "id": 4,
+        "name": "Startup 1",
+        "founded": "founder 1,founder 2",
+        "year": 2016,
+        "p": "one line intro",
+        "image": "https://tcproduction.blob.core.windows.net/media/%7B240f8b72-1159-4fd3-a150-0a837f50ba4a%7D.2573758641_297d6d19fa_o.jpg",
+        "know-more": "limktobeadded"
+      },
+      {
+        "id": 4,
+        "name": "Startup 1",
+        "founded": "founder 1,founder 2",
+        "year": 2016,
+        "p": "one line intro",
+        "image": "https://tcproduction.blob.core.windows.net/media/%7B240f8b72-1159-4fd3-a150-0a837f50ba4a%7D.2573758641_297d6d19fa_o.jpg",
+        "know-more": "limktobeadded"
       }
     ]
   }
